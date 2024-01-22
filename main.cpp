@@ -14,7 +14,7 @@ using namespace std;
 
 int main()
 {
-
+    
     default_random_engine * gptr;
     gptr = new default_random_engine(time(NULL));
 
