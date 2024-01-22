@@ -7,6 +7,7 @@
 #include <design.h>
 #include <product.h>
 #include <population.h>
+#include <RandD.h>
 using namespace std;
 
 int main()
