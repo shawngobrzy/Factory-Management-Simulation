@@ -11,7 +11,7 @@ class RandD
 {
     public:
         RandD();
-        virtual ~RandD();
+        ~RandD();
 
         //void designCreator(Demand& thisDemand, default_random_engine * gptr);
         void designCreator(list<Demand>& d, default_random_engine * gptr);
