@@ -1,7 +1,12 @@
 #include <iostream>
+#include <list>
+#include <random>
+#include <string>
+#include <time.h>
 #include <demand.h>
 #include <design.h>
 #include <product.h>
+#include <population.h>
 using namespace std;
 
 int main()
